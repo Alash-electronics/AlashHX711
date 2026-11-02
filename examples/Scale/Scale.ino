@@ -1,5 +1,9 @@
-// AlashHX711: готовые весы. Вес в граммах, значок "стабильно", обнуление (тара) командой 't' из монитора порта.
-// Подставьте в setOffset / setScale значения, которые напечатал скетч Calibrate.
+// [ru] AlashHX711: готовые весы. Вес в граммах, значок "стабильно", обнуление (тара) командой 't' из монитора порта.
+//      Подставьте в setOffset / setScale значения, которые напечатал скетч Calibrate.
+// [kk] AlashHX711: дайын таразы. Граммен салмақ, «тұрақты» белгісі, порт мониторынан 't' командасымен нөлдеу (тара).
+//      setOffset / setScale-ге Calibrate скетчі басып шығарған мәндерді қойыңыз.
+// [en] AlashHX711: a ready scale. Weight in grams, a "stable" mark, zeroing (tare) with the 't' command from the serial monitor.
+//      Put into setOffset / setScale the values printed by the Calibrate sketch.
 #include <AlashHX711.h>
 
 #if defined(ESP32)

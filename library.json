@@ -1,6 +1,6 @@
 {
   "name": "AlashHX711",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy HX711 load cell/scale library: tare, calibrate, grams, outlier filter, stable check, clear tips (ru/kk/en), no dependencies",
   "keywords": "HX711, load cell, scale, weight, strain gauge, tare, calibration",
   "repository": {
